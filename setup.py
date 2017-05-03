@@ -21,7 +21,8 @@ test_requirements = [
 setup(
     name='ccuttr',
     version='0.0.1',
-    description="Cookicutter inspired project for generating templates for various pr",
+    description="Cookicutter inspired utility for generating projects from "
+                "ccuttr templates",
     long_description=readme + '\n\n' + history,
     author="Divick Kishore",
     author_email='divick.kishore@gmail.com',
